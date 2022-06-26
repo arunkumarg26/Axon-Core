@@ -1,8 +1,8 @@
-package com.appsdeveloperblog.estore.core.commands;
+package com.omnicell.example.axon.core.commands;
 
 import org.axonframework.modelling.command.TargetAggregateIdentifier;
 
-import com.appsdeveloperblog.estore.core.model.PaymentDetails;
+import com.omnicell.example.axon.core.model.PaymentDetails;
 
 import lombok.Builder;
 import lombok.Data;

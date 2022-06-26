@@ -1,4 +1,4 @@
-package com.appsdeveloperblog.estore.core.model;
+package com.omnicell.example.axon.core.model;
 
 import lombok.Builder;
 import lombok.Data;

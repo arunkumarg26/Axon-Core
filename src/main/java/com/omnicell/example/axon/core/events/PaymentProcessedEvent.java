@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.appsdeveloperblog.estore.core.events;
+package com.omnicell.example.axon.core.events;
 
 import lombok.Value;
  

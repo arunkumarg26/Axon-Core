@@ -1,4 +1,4 @@
-package com.appsdeveloperblog.estore.core.query;
+package com.omnicell.example.axon.core.query;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

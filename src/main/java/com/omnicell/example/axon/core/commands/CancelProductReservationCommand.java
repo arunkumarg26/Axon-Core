@@ -1,4 +1,4 @@
-package com.appsdeveloperblog.estore.core.commands;
+package com.omnicell.example.axon.core.commands;
 
 import org.axonframework.modelling.command.TargetAggregateIdentifier;
 
